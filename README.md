@@ -6,14 +6,15 @@ A sleek, modern, and interactive **Gemini AI Chat Clone**, developed using **Rea
 
 ## 📷 Screenshots
 
-![Gemini Clone Home](./public/screenshot.png)
+<img width="1902" height="864" alt="Screenshot 2025-07-25 185236" src="https://github.com/user-attachments/assets/60745eb1-cbc0-4f6c-8482-fa596d2d1206" />
+
 
 ---
 
 ## 🚀 Features
 
 - 🔥 Prompt-based interaction with Google Gemini API
-- 💡 Suggested card prompts (clickable)
+- 💡 Suggested card prompts 
 - 🎤 Mic, gallery, and send icons (UI)
 - 💬 Real-time response rendering with loading animation
 - 👤 User prompt & AI response bubble layout
